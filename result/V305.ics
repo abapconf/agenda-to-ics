@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:2U--dk7hK_sB8C2OYyd-j
+SUMMARY:ABAP Test Cockpit (ATC) goes Cloud - ATC on SAP BTP
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T132000Z
+DTEND:20241205T141000Z
+DESCRIPTION:ABAP Test Cockpit (ATC) on SAP BTP is now ready for use and rec
+	ommended by SAP for Clean Core governance and static quality assurance of 
+	your SAP S/4HANA Private Cloud (or on-premise) development landscapes. ATC
+	 on SAP BTP offers such essential capabilities like code analysis\, custom
+	 checks\, baseline\, developer scenario\, robust exemptions workflow or sc
+	heduling of ATC runs. The SAP Code Vulnerability Analyzer (CVA) security c
+	hecks are included into ATC on SAP BTP at no additional licensing fee. Joi
+	n this session to learn about ATC on BTP and see it in action.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

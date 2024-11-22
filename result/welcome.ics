@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:FVgfF7-Aqa_dUYl94fKIl
+SUMMARY:Welcome
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T074500Z
+DTEND:20241205T080000Z
+DESCRIPTION:Welcome to ABAPConf 2024. Introduction to the conference\, moti
+	vation and agenda. Get to know the people and how to get the best out of t
+	he day.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

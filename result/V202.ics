@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:_cNUtAXG-nbYzeU6bMVnU
+SUMMARY:Making an on-premise ABAP CI/CD with GitHub Actions
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T094000Z
+DTEND:20241205T103000Z
+DESCRIPTION:Live demo of my blog article 'Making an OnPremise ABAP CI/CD wi
+	th Github Actions': how to leverage community-driven\, open-source solutio
+	ns to create a modern CI/CD setup for ABAP. This demo will showcase tools 
+	like abapGit\, abapLint\, ADASH\, and TRM\, demonstrating how each contrib
+	utes to the pipeline. The demo will also include a brief overview of Git b
+	ranching strategies tailored for effective CI/CD implementation.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

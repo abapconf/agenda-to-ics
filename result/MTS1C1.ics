@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:YJOhex1g1hPf4arr2CDpv
+SUMMARY:Meet the Speakers Channel 1 - Morning
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T112000Z
+DTEND:20241205T113000Z
+DESCRIPTION:Meet the speakers. Get to know the better and have your questio
+	ns to them answered:\n- Björn Schulz\n-Christopher Graw\n-Sören Schlegel
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

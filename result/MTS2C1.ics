@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:G7XSls_P0pyEkcc81XLDH
+SUMMARY:Meet the Speakers Channel 1 - Afternoon
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T150000Z
+DTEND:20241205T151000Z
+DESCRIPTION:Meet the speakers. Get to know the better and have your questio
+	ns to them answered:\n-Martin Jonen\n-Marc Bernard\n-Frank Engert\n-Michae
+	l Keller
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

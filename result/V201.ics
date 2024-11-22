@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:poQw34bn9UuhqslzG94d0
+SUMMARY:Streamlining ABAP Code reviews with AI: ABAP GenAI Co-pilot on Micr
+	osoft Teams for S/4HANA on-premise
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T085000Z
+DTEND:20241205T094000Z
+DESCRIPTION:This session explores how the ABAP GenAI Co-Pilot\, powered by 
+	SAP Generative AI Hub helps in the code review activities like code analys
+	is\, defect detection\, integrate microsoft teams for collaboration etc. f
+	or development leads & managers. Presentation as well as demo will be show
+	n for this session.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

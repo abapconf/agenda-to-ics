@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:br6y-ODzauna1MkdoRXiR
+SUMMARY:apm - From Vision to Reality
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T132000Z
+DTEND:20241205T141000Z
+DESCRIPTION:In the world of ABAP development\, the lack of efficient code s
+	haring\, robust version control\, and automated dependency management have
+	 long been barriers to innovation and productivity. As developers increasi
+	ngly seek open-source solutions\, apm emerges as a transformative package 
+	manager designed to address these challenges\, drawing inspiration from su
+	ccessful ecosystem solutions like npm.\n\nExplore how apm seamlessly integ
+	rates into your technology discovery routine\, making it an essential part
+	 of your developer toolkit. Join us to uncover apm's straightforward appro
+	ach to versioning\, dependency management\, and manifest definitions.\n\nE
+	xperience apm firsthand in our free and unlimited playground\, where you c
+	an publish\, download\, and install packages with ease. Quickly activate y
+	our apm account and transition from adoption to becoming a proficient 'bad
+	ass user.'\n\nFinally\, discover how to join a vibrant community of ABAP d
+	evelopers dedicated to ongoing engagement and collaborative problem-solvin
+	g. Be part of the revolution transforming ABAP development through open-so
+	urce innovation.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

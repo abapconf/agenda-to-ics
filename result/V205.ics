@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:iNMFx3sw5pyiqwGb5yBkb
+SUMMARY:Verloren im CDS Dschungel?
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T132000Z
+DTEND:20241205T141000Z
+DESCRIPTION:Wie eine grafische Visualisierung die Sicht auf CDS Views\, ihr
+	e Annotationen und Abhängigkeiten verändern kann.\n\nHabt ihr euch schon m
+	al gefragt\, in welchen CDS Views eine Tabelle denn jetzt genau verwendet 
+	wird? Wie diese von einander abhängen? Oder wo in einer CDS Hierarchie ein
+	 Feld nun verwendet wird\, und wo nicht mehr? Oder auf welcher Ebene gewis
+	se Annotations gesetzt werden? Oder…?\n\nWir nehmen euch mit auf die Reise
+	\, wir wir uns selbst in dem Dschungel verirrt haben\, dann in den verschi
+	edenen Lockdowns mit graphischen Darstellung experimentiert haben um dann 
+	ein Tool zu schaffen\, dass wir jetzt demnächst auf Github Allen zur Verfü
+	gung stellen.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

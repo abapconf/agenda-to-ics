@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:qApzia8LXZ8qNghFbXKx5
+SUMMARY:Unit Test your Business Objects in RAP
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T123000Z
+DTEND:20241205T132000Z
+DESCRIPTION:A session on unit testing business objects in RAP covers the fu
+	ndamental principles and practices of testing business logic within the RA
+	P framework. Participants will learn how to design and implement unit test
+	s for RAP business objects using the ABAP Test Double Framework. The sessi
+	on will focus on creating test scenarios to validate business rules\, data
+	 consistency\, and transactional behaviors without relying on a database c
+	onnection or external dependencies. Key topics include setting up the test
+	 environment\, creating mock objects\, simulating data retrieval and modif
+	ication\, and executing tests to ensure the robustness and reliability of 
+	business logic in a RAP application. This hands-on session aims to equip d
+	evelopers with the skills to confidently test and maintain high-quality RA
+	P applications.\n\nBased on the GitHub Repo from Christian Drumm (https://
+	github.com/ceedee666/modern-abap-curriculum) the participants can follow t
+	he session as a hands-on exercise 
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

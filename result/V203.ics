@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:vlt7UQr4eNSuRbMvnHQ2r
+SUMMARY:Lessons learned building a product on clean core ABAP on S/4HANA pu
+	blic cloud
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T103000Z
+DTEND:20241205T112000Z
+DESCRIPTION:In this session\, we will share the challenges and lessons we l
+	earned when we built the partner solution FEXS API Connect for the S/4HANA
+	 public cloud with Clean Core ABAP. We will first explain the possible int
+	egration options for integrating as a partner with the S/4HANA public clou
+	d and why we chose to build it on an embedded ABAP cloud environment. We w
+	ill discuss the challenges we face with using an S/4HANA public cloud envi
+	ronment and how we overcome the restrictions of cloud ABAP and the RAP mod
+	el. We will talk more about using RAP events\, bgPF\, XCO libraries\, and 
+	other capabilities of the ABAP cloud\, which will help us realize our solu
+	tion.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

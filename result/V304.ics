@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:3KU036_R2BFHkX109Ox3m
+SUMMARY:Clean Core extensibility with ABAP Cloud in SAP S/4HANA Cloud Priva
+	te Edition
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T123000Z
+DTEND:20241205T132000Z
+DESCRIPTION:ABAP Cloud is the powerful development model for clean core com
+	pliant\, cloud-ready business applications\, services\, and extensions.\n\
+	nIn this session\, we will demonstrate how the 3-tier extensibility model 
+	helps you to consume BAPIs with ABAP Cloud in SAP S/4HANA Cloud Private Ed
+	ition and SAP S/4HANA.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

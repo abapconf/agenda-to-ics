@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:1V_QAat3ZEXF-5f-oXURa
+SUMMARY:ABAP Hybrid - Magie mit Graph Datenmodellen
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T153000Z
+DTEND:20241205T162000Z
+DESCRIPTION:Wenn wir über die Grenzen eines ABAP Stacks hinaus denken (könn
+	en)\, dann ist so manche komplexe Herausforderung unseres ABAP Alltags ein
+	facher lösbar und sorgt zusätzlich für clean core. Mit Graph Datenmodellen
+	 bekommen wir neue 'Dimensionen' in denen wir uns bewegen können. Im Rahme
+	n meines Vortrags stelle ich einige unserer Szenarien und Lösungsansätze v
+	or.\n\nABAP Hybrid heißt nicht zwangsweise Cloud\, was ich bei meinem letz
+	ten ABAPConf Vortrag schon thematisiert habe. KI wird auch wieder eingebau
+	t: Graph Datenmodelle sind eine gute Basis für GraphRAG's...    
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

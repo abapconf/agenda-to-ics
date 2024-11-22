@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:nmxJKPg-1fFtVtOOvap9F
+SUMMARY:ABAP Cloud - A life after the report
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T085000Z
+DTEND:20241205T094000Z
+DESCRIPTION:Wie geht es weiter mit dem ALV und dem klassischen ABAP Report?
+	 In dieser Session beschäftigen wir uns mit der Migrationsstrategie in Ric
+	htung ABAP Cloud und welche Alternativen es mit RAP und dem Application Jo
+	b gibt. In einem Beispiel gehen wir die einzelnen Schritte der Migration h
+	in zu einer ABAP Cloud Anwendung durch.\n\nWhat happens next with the ALV 
+	and the classic ABAP report? In this session we will look at the migration
+	 strategy towards ABAP Cloud and what alternatives there are with RAP and 
+	the Application Job. In an example we will go through the various steps of
+	 the migration to get an ABAP Cloud application.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:68r_j-UKUXl5JMDMTzVha
+SUMMARY:Meet the Speakers Channel 2 - Morning
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T112000Z
+DTEND:20241205T113000Z
+DESCRIPTION:Meet the speakers. Get to know the better and have your questio
+	ns to them answered:\n- Pankaj Yadav\n-Simone Gaffurini\n-Robert Eijpe\n-O
+	ctavian Mihail Savi
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4Kmf8aMMNKnm0DXxFvUfe
+SUMMARY:Key User and Developer Extensibility Options - Best practices
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T085000Z
+DTEND:20241205T094000Z
+DESCRIPTION:Key User Extensibility is a major pillar of the SAP S/4HANA Ext
+	ensibility concept. It enables business experts to do last mile extensions
+	 by their own. But it also provides a lot of value for developers.\n\nDeve
+	loper Extensibility on the other hand empowers the developer to develop ex
+	tensions in a clean core compliant way using the ABAP Cloud development mo
+	del.\n\nIn this session\, we provide an overview on these extensibility op
+	tions and will provide best practices when to use what. We provide example
+	s for extensions that are realized as combination of key user and develope
+	r extensibility. 
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

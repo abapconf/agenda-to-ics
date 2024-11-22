@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:q2aXzCo37yyIjuDBhxjIE
+SUMMARY:Programming Glitches and ABAP Hacks
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T153000Z
+DTEND:20241205T162000Z
+DESCRIPTION:SAP will nicht\, dass du dies weißt: Ich zeige einige Merkwürdi
+	gkeiten aus drei Jahrzehnten ABAP-Programmierung. Ich zeige Dinge auf\, di
+	e möglich sind\, aber vielleicht lieber nicht gemacht werden sollten. Leid
+	er könnte das unter 'outdated techniques' fallen\, die ja explizit nicht g
+	ewünscht sind.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel2
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel2
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

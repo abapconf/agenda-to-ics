@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:kVb5Q5vdQ3gaGoXhZh7rh
+SUMMARY:Enable OData Streams in RAP
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T103000Z
+DTEND:20241205T112000Z
+DESCRIPTION:How to enable OData Streams such as excel\, pdf\, Images and ot
+	her large objects using standard RAP Based application development without
+	 using UI5 tooling?\n\nWith the latest SAP BTP ABAP Environment 2208 relea
+	se the RAP framework now supports OData streams. It is now possible to ena
+	ble your RAP application to maintain and handle Large Objects(LOBs).This f
+	eature provides end users an option to upload external files of different 
+	file formats such as PDF\, XLSX \, binary file format and other types henc
+	e allowing media handling.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,844 @@
+{
+    "willkommen": {
+        "id": "willkommen",
+        "speakerids": [
+            "TobiasHofmann",
+            "SoerenSchlegel",
+            "JohannFoessleitner",
+            "DomiBigl"
+        ],
+        "title": "Willkommen",
+        "abstract": "Willkommen zur ABAPConf 2024. Einführung, Motivation und Vorstellung der Agenda. Lernt die Leute kennen und macht das Beste aus dem Tag.",
+        "track": 1,
+        "time": "8:30",
+        "YouTubeTimestamp": 0,
+        "duration": 15,
+        "language": "German",
+        "ics": "./model/agenda/willkommen.ics",
+        "tags": [
+            {
+                "name": "Keynote",
+                "color": 1
+            }
+        ]
+    },
+    "welcome": {
+        "id": "welcome",
+        "speakerids": [
+            "TobiasHofmann",
+            "SoerenSchlegel",
+            "JohannFoessleitner",
+            "DomiBigl"
+        ],
+        "title": "Welcome",
+        "abstract": "Welcome to ABAPConf 2024. Introduction to the conference, motivation and agenda. Get to know the people and how to get the best out of the day.",
+        "track": 1,
+        "time": "8:45",
+        "YouTubeTimestamp": 0,
+        "duration": 15,
+        "language": "German",
+        "ics": "./model/agenda/welcome.ics",
+        "tags": [
+            {
+                "name": "Keynote",
+                "color": 1
+            }
+        ]
+    },
+    "keynote": {
+        "id": "keynote",
+        "speakerids": [
+            "StephanHeinberg"
+        ],
+        "title": "Keynote: Modernizing a R/3 Solution with ABAP Cloud - Light and Shadow",
+        "abstract": "",
+        "track": 1,
+        "time": "9:00",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/keynote.ics",
+        "tags": [
+            {
+                "name": "Keynote",
+                "color": 1
+            },
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "RAP",
+                "color": 10
+            }
+            ,
+            {
+                "name": "Fiori Elements",
+                "color": 11
+            }
+        ]
+    }, 
+    "keynote2": {
+        "id": "keynote2",
+        "speaker": "tba",
+        "speakerids": [            
+        ], 
+        "title": "Closing Keynote: The Modern SAP Full-Stack Developer",
+        "abstract": "",
+        "track": 1,
+        "time": "17:20",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/keynote2.ics",
+        "tags": [
+            {
+                "name": "Keynote",
+                "color": 1
+            },
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Fiori",
+                "color": 11
+            }
+        ]
+    },        
+    "V101": {
+        "id": "V101",
+        "speaker": "Björn Schulz",
+        "speakerids": [
+            "BjoernSchulz"
+        ],
+        "title": "ABAP Cloud - A life after the report",
+        "abstract": "Wie geht es weiter mit dem ALV und dem klassischen ABAP Report? In dieser Session beschäftigen wir uns mit der Migrationsstrategie in Richtung ABAP Cloud und welche Alternativen es mit RAP und dem Application Job gibt. In einem Beispiel gehen wir die einzelnen Schritte der Migration hin zu einer ABAP Cloud Anwendung durch.\n\nWhat happens next with the ALV and the classic ABAP report? In this session we will look at the migration strategy towards ABAP Cloud and what alternatives there are with RAP and the Application Job. In an example we will go through the various steps of the migration to get an ABAP Cloud application.",
+        "track": 1,
+        "time": "9:50",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "German",
+        "ics": "./model/agenda/V101.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            },
+            {
+                "name": "RAP",
+                "color": 10
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            } 
+        ]
+    },
+    "V102": {
+        "id": "V102",
+        "speaker": "Christopher Graw",
+        "speakerids": [
+            "ChristopherGraw"
+        ],
+        "title": "Releasemanagement mit gCTS",
+        "abstract": "Lifecycle und Release Management, sowie Versionsverwaltung gehören zu den wesentlichen Themen im Betrieb eines S/4HANA Systems. Mit gCTS bietet die SAP hier seit einigen Jahren ein Werkzeug, dass das Versionskontrollsystem git mit dem Transportwesen zusammenbringt.\n\nIn diesem Vortrag möchte ich ein paar Ansätze skizzieren, gCTS in Kombination mit einem Transportmanagementsystem zu nutzen, um ein ganzheitliches Releasemanagement für eine Systemlandschaft mit mehreren parallelen fünfstufigen Systemschienen aufzusetzen.\n\nFolgende Themen habe ich dabei im Fokus:\n-Kurze Übersicht über wesentliche Funktionen von gCTS\n- Einsatz von gCTS und Transportmanagement in verschiedenen Systemlandschaften\n- Zuschnitt von Repositories\n- Regeln für die Nutzung von Branches\n- Retrofit vom Wartungs- in das Entwicklungssystem\n- Herausforderungen",
+        "track": 1,
+        "time": "10:40",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "German",
+        "ics": "./model/agenda/V102.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            }
+        ]
+    },
+    "V103": {
+        "id": "V103",
+        "speaker": "Sascha Wächter",
+        "speakerids": [
+            "SaschaWaechter"
+        ],
+        "title": "Troubleshoot your OData",
+        "abstract": "OData-Services stehen immer mehr im Fokus bei verschiedenen Arten von Anwendungen im SAP-Ökosystem, sowohl RAP-basiert wie auch viele Legacy-Anwendungen z.B. im Bereich Fiori. Ziel ist es sinnvoll zu zeigen wie man diese Services toolunterstützt sinnvoll und einfach Testen kann, sowohl OnPremise, wie auch in der Cloud.",
+        "track": 1,
+        "time": "11:30",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "German",
+        "ics": "./model/agenda/V103.ics",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "RAP",
+                "color": 10
+            },
+            {
+                "name": "Testing",
+                "color": 9
+            }
+        ]
+    },
+    "V104": {
+        "id": "V104",
+        "speaker": "Martin Jonen",
+        "speakerids": [
+            "MartinJonen"
+        ],
+        "title": "Unit Test your Business Objects in RAP",
+        "abstract": "A session on unit testing business objects in RAP covers the fundamental principles and practices of testing business logic within the RAP framework. Participants will learn how to design and implement unit tests for RAP business objects using the ABAP Test Double Framework. The session will focus on creating test scenarios to validate business rules, data consistency, and transactional behaviors without relying on a database connection or external dependencies. Key topics include setting up the test environment, creating mock objects, simulating data retrieval and modification, and executing tests to ensure the robustness and reliability of business logic in a RAP application. This hands-on session aims to equip developers with the skills to confidently test and maintain high-quality RAP applications.\n\nBased on the GitHub Repo from Christian Drumm (https://github.com/ceedee666/modern-abap-curriculum) the participants can follow the session as a hands-on exercise ",
+        "track": 1,
+        "time": "13:30",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V104.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "RAP",
+                "color": 10
+            },
+            {
+                "name": "Testing",
+                "color": 9
+            }
+        ]
+    },
+    "V105": {
+        "id": "V105",
+        "speaker": "Marc Bernard",
+        "speakerids": [
+            "MarcBernard"
+        ],
+        "title": "apm - From Vision to Reality",
+        "abstract": "In the world of ABAP development, the lack of efficient code sharing, robust version control, and automated dependency management have long been barriers to innovation and productivity. As developers increasingly seek open-source solutions, apm emerges as a transformative package manager designed to address these challenges, drawing inspiration from successful ecosystem solutions like npm.\n\nExplore how apm seamlessly integrates into your technology discovery routine, making it an essential part of your developer toolkit. Join us to uncover apm's straightforward approach to versioning, dependency management, and manifest definitions.\n\nExperience apm firsthand in our free and unlimited playground, where you can publish, download, and install packages with ease. Quickly activate your apm account and transition from adoption to becoming a proficient 'badass user.'\n\nFinally, discover how to join a vibrant community of ABAP developers dedicated to ongoing engagement and collaborative problem-solving. Be part of the revolution transforming ABAP development through open-source innovation.",
+        "track": 1,
+        "time": "14:20",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V105.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            }
+        ]
+    },
+    "V106": {
+        "id": "V106",
+        "speaker": "Frank Engert",
+        "speaker2": "Michael Keller",
+        "speakerids": [
+            "FrankEngert",
+            "MichaelKeller"
+        ],
+        "title": "Von SAPscript zu Adobe Forms - Freud und Leid in der Formularentwicklung",
+        "abstract": "",
+        "track": 1,
+        "time": "15:10",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "Deutsch",
+        "ics": "./model/agenda/V106.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "On Premise",
+                "color": 4
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Classic ABAP",
+                "color": 5
+            }
+        ]
+    },
+    "V107": {
+        "id": "V107",
+        "speaker": "Jörg Müller",
+        "speakerids": [
+            "JoergMueller"
+        ],
+        "title": "ABAP Hybrid - Magie mit Graph Datenmodellen",
+        "abstract": "Wenn wir über die Grenzen eines ABAP Stacks hinaus denken (können), dann ist so manche komplexe Herausforderung unseres ABAP Alltags einfacher lösbar und sorgt zusätzlich für clean core. Mit Graph Datenmodellen bekommen wir neue 'Dimensionen' in denen wir uns bewegen können. Im Rahmen meines Vortrags stelle ich einige unserer Szenarien und Lösungsansätze vor.\n\nABAP Hybrid heißt nicht zwangsweise Cloud, was ich bei meinem letzten ABAPConf Vortrag schon thematisiert habe. KI wird auch wieder eingebaut: Graph Datenmodelle sind eine gute Basis für GraphRAG's...    ",
+        "track": 1,
+        "time": "16:30",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "Deutsch",
+        "ics": "./model/agenda/V107.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "On Premise",
+                "color": 4
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            }
+        ]
+    }, 
+    "V201": {
+        "id": "V201",
+        "speaker": "Pankaj Yadav",
+        "speakerids": [
+            "PankayYadav"
+        ],
+        "title": "Streamlining ABAP Code reviews with AI: ABAP GenAI Co-pilot on Microsoft Teams for S/4HANA on-premise",
+        "abstract": "This session explores how the ABAP GenAI Co-Pilot, powered by SAP Generative AI Hub helps in the code review activities like code analysis, defect detection, integrate microsoft teams for collaboration etc. for development leads & managers. Presentation as well as demo will be shown for this session.",
+        "track": 2,
+        "time": "9:50",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V201.ics",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            }  
+        ]
+    },  
+    "V202": {
+        "id": "V202",
+        "speaker": "Simone Gaffurini",
+        "speakerids": [
+            "SimoneGaffurini"
+        ],
+        "title": "Making an on-premise ABAP CI/CD with GitHub Actions",
+        "abstract": "Live demo of my blog article 'Making an OnPremise ABAP CI/CD with Github Actions': how to leverage community-driven, open-source solutions to create a modern CI/CD setup for ABAP. This demo will showcase tools like abapGit, abapLint, ADASH, and TRM, demonstrating how each contributes to the pipeline. The demo will also include a brief overview of Git branching strategies tailored for effective CI/CD implementation.",
+        "track": 2,
+        "time": "10:40",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V202.ics",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Testing",
+                "color": 9
+            } 
+        ]
+    }, 
+    "V203": {
+        "id": "V203",
+        "speaker": "Robert Eijpe",
+        "speaker2": "Octavian Mihail Savi",
+        "speakerids": [
+            "RobertEijpe",
+            "OctavianMihailSavi"
+        ],  
+        "title": "Lessons learned building a product on clean core ABAP on S/4HANA public cloud",
+        "abstract": "In this session, we will share the challenges and lessons we learned when we built the partner solution FEXS API Connect for the S/4HANA public cloud with Clean Core ABAP. We will first explain the possible integration options for integrating as a partner with the S/4HANA public cloud and why we chose to build it on an embedded ABAP cloud environment. We will discuss the challenges we face with using an S/4HANA public cloud environment and how we overcome the restrictions of cloud ABAP and the RAP model. We will talk more about using RAP events, bgPF, XCO libraries, and other capabilities of the ABAP cloud, which will help us realize our solution.",
+        "track": 2,
+        "time": "11:30",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V203.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            }
+        ]
+    },
+    "V204": {
+        "id": "V204",
+        "speaker": "Regina Hochecker",
+        "speaker2": "Johann Fößleitner",
+        "speakerids": [
+            "ReginaHochecker",
+            "JohannFoessleitner"
+        ],  
+        "title": "Dokumentengenerierung mit dox42 direkt in ABAP integriert",
+        "abstract": "",
+        "track": 2,
+        "time": "13:30",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "Deutsch",
+        "ics": "./model/agenda/V204.ics",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            }           
+        ]
+    },
+    "V205": {
+        "id": "V205",
+        "speaker": "Dusan Sacha",
+        "speaker2": "Oliver Wahrstötter",
+        "speakerids": [
+            "DusanSacha",
+            "OliverWahrstoetter"
+        ],  
+        "title": "Verloren im CDS Dschungel?",
+        "abstract": "Wie eine grafische Visualisierung die Sicht auf CDS Views, ihre Annotationen und Abhängigkeiten verändern kann.\n\nHabt ihr euch schon mal gefragt, in welchen CDS Views eine Tabelle denn jetzt genau verwendet wird? Wie diese von einander abhängen? Oder wo in einer CDS Hierarchie ein Feld nun verwendet wird, und wo nicht mehr? Oder auf welcher Ebene gewisse Annotations gesetzt werden? Oder…?\n\nWir nehmen euch mit auf die Reise, wir wir uns selbst in dem Dschungel verirrt haben, dann in den verschiedenen Lockdowns mit graphischen Darstellung experimentiert haben um dann ein Tool zu schaffen, dass wir jetzt demnächst auf Github Allen zur Verfügung stellen.",
+        "track": 2,
+        "time": "14:20",
+        "YouTubeTimestamp": 0,
+        "duration": 50,
+        "language": "Deutsch",
+        "ics": "./model/agenda/V205.ics",
+        "tags": [
+            {
+                "name": "CDS",
+                "color": 11
+            },
+            {
+                "name": "RAP",
+                "color": 10
+            }
+        ]
+    },
+    "V206": {
+        "id": "V206",
+        "speaker": "Ivan Mans",
+        "speakerids": [
+            "IvanMans"            
+        ],  
+        "title": "Secure custom SAP development - Typical security issues in ABAP code",
+        "abstract": "",
+        "track": 2,
+        "time": "15:10",
+        "YouTubeTimestamp": 0,
+        "YouTubeHMSformat": "",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V206.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            },
+            {
+                "name": "Classic ABAP",
+                "color": 5
+            }
+        ]
+    },
+    "V207": {
+        "id": "V207",
+        "speaker": "Enno Wulff",
+        "speakerids": [
+            "EnnoWulff"
+        ], 
+        "title": "Programming Glitches and ABAP Hacks",
+        "abstract": "SAP will nicht, dass du dies weißt: Ich zeige einige Merkwürdigkeiten aus drei Jahrzehnten ABAP-Programmierung. Ich zeige Dinge auf, die möglich sind, aber vielleicht lieber nicht gemacht werden sollten. Leider könnte das unter 'outdated techniques' fallen, die ja explizit nicht gewünscht sind.",
+        "track": 2,
+        "time": "16:30",
+        "YouTubeTimestamp": 0,
+        "YouTubeHMSformat": "",
+        "duration": 50,
+        "language": "German",
+        "ics": "./model/agenda/V207.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "Classic ABAP",
+                "color": 5
+            }
+        ]
+    },
+    "V301": {
+        "id": "V301",
+        "speaker": "Thomas Schneider",
+        "speaker2": "Kai Dehmann",
+        "speakerids": [
+            "ThomasSchneider",
+            "KaiDehmann"
+        ], 
+        "title": "Key User and Developer Extensibility Options - Best practices",
+        "abstract": "Key User Extensibility is a major pillar of the SAP S/4HANA Extensibility concept. It enables business experts to do last mile extensions by their own. But it also provides a lot of value for developers.\n\nDeveloper Extensibility on the other hand empowers the developer to develop extensions in a clean core compliant way using the ABAP Cloud development model.\n\nIn this session, we provide an overview on these extensibility options and will provide best practices when to use what. We provide examples for extensions that are realized as combination of key user and developer extensibility. ",
+        "track": 3,
+        "time": "9:50",
+        "YouTubeTimestamp": 0,
+        "YouTubeHMSformat": "",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V301.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            }
+        ]
+    },
+    "V302": {
+        "id": "V302",
+        "speaker": "Georg Wilhelm",
+        "speaker2": "Daniel Wachs",
+        "speakerids": [
+            "GeorgWilhelm",
+            "DanielWachs"
+        ], 
+        "title": "Implementing Extension Fields using Key User and Developer Extensibility - Do's and Don'ts",
+        "abstract": "In this session we will focus on how to implement extensions using extension fields.\n\nWe will demonstrate both the key user tools and the developer extensibility wizard in ADT to implement typical scenarios using extension fields. We will provide guidance for the Do’s and Don’ts in the extensibility area. ",
+        "track": 3,
+        "time": "10:40",
+        "YouTubeTimestamp": 0,
+        "YouTubeHMSformat": "",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V302.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            }
+        ]
+    },
+    "V303": {
+        "id": "V303",
+        "speaker": "Pavan Kumar Reddy",
+        "speaker2": "Ankita Singh",
+        "speakerids": [
+            "PavanKumarReddy",
+            "AnkitaSingh"
+        ], 
+        "title": "Enable OData Streams in RAP",
+        "abstract": "How to enable OData Streams such as excel, pdf, Images and other large objects using standard RAP Based application development without using UI5 tooling?\n\nWith the latest SAP BTP ABAP Environment 2208 release the RAP framework now supports OData streams. It is now possible to enable your RAP application to maintain and handle Large Objects(LOBs).This feature provides end users an option to upload external files of different file formats such as PDF, XLSX , binary file format and other types hence allowing media handling.",
+        "track": 3,
+        "time": "11:30",
+        "YouTubeTimestamp": 0,
+        "YouTubeHMSformat": "",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V303.ics",
+        "icon": "",
+        "slide": "",
+        "tags": [
+            {
+                "name": "RAP",
+                "color": 10
+            }
+        ]
+    },
+    "V304": {
+        "id": "V304",
+        "speaker": "Volker Drees",
+        "speaker2": "Fabian Fellhauer",
+        "speakerids": [
+            "VolkerDrees",
+            "FabianFellhauer"
+        ], 
+        "title": "Clean Core extensibility with ABAP Cloud in SAP S/4HANA Cloud Private Edition",
+        "abstract": "ABAP Cloud is the powerful development model for clean core compliant, cloud-ready business applications, services, and extensions.\n\nIn this session, we will demonstrate how the 3-tier extensibility model helps you to consume BAPIs with ABAP Cloud in SAP S/4HANA Cloud Private Edition and SAP S/4HANA.",
+        "track": 3,
+        "time": "13:30",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V304.ics",
+        "link": "",
+        "tags": [
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            }
+        ]
+    },
+    "V305": {
+        "id": "V305",
+        "speaker": "Olga Dolinskaja",
+        "speaker2": "Thomas Fiedler",
+        "speakerids": [
+            "OlgaDolinskaja",
+            "ThomasFiedler"
+        ], 
+        "title": "ABAP Test Cockpit (ATC) goes Cloud - ATC on SAP BTP",
+        "abstract": "ABAP Test Cockpit (ATC) on SAP BTP is now ready for use and recommended by SAP for Clean Core governance and static quality assurance of your SAP S/4HANA Private Cloud (or on-premise) development landscapes. ATC on SAP BTP offers such essential capabilities like code analysis, custom checks, baseline, developer scenario, robust exemptions workflow or scheduling of ATC runs. The SAP Code Vulnerability Analyzer (CVA) security checks are included into ATC on SAP BTP at no additional licensing fee. Join this session to learn about ATC on BTP and see it in action.",
+        "track": 3,
+        "time": "14:20",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V305.ics",
+        "link": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            },
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            }
+        ]
+    },
+    "V306": {
+        "id": "V306",
+        "speaker": "George Drakos",
+        "speakerids": [
+            "GeorgeDrakos"
+        ], 
+        "title": "Advanced New ABAP",
+        "abstract": "Code Snippets using New ABAP Syntax",
+        "track": 3,
+        "time": "15:10",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V306.ics",
+        "link": "",
+        "tags": [
+            {
+                "name": "ABAP",
+                "color": 2
+            }
+        ]
+    },
+    "V307": {
+        "id": "V307",
+        "speaker": "Ingo Bräuninger",
+        "speakerids": [
+            "IngoBraeuninger"
+        ], 
+        "title": "Integration Troubleshooting in the SAP BTP, ABAP Environment",
+        "abstract": "This session will offer an overview of troubleshooting capabilities within the Business Technology Platform (BTP) ABAP environment, specifically focusing on integration aspects.\n\nYou will see how to troubleshoot integration scenarios and discover different tools necessary for effectively addressing integration and security issues.",
+        "track": 3,
+        "time": "16:30",
+        "duration": 50,
+        "language": "English",
+        "ics": "./model/agenda/V307.ics",
+        "link": "",
+        "tags": [
+            {
+                "name": "Cloud",
+                "color": 3
+            },
+            {
+                "name": "S/4HANA",
+                "color": 7
+            },
+            {
+                "name": "Best practice",
+                "color": 6
+            }
+        ]
+    },
+    "MTS1C1": {
+        "id": "MTS1C1",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 1 - Morning",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n- Björn Schulz\n-Christopher Graw\n-Sören Schlegel",
+        "track": 1,
+        "time": "12:20",
+        "duration": 10,
+        "language": "Deutsch",
+        "ics": "./model/agenda/MTS1C1.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS1C2": {
+        "id": "MTS1C2",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 2 - Morning",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n- Pankaj Yadav\n-Simone Gaffurini\n-Robert Eijpe\n-Octavian Mihail Savi",
+        "track": 2,
+        "time": "12:20",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS1C2.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS1C3": {
+        "id": "MTS1C3",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 3 - Morning",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n- Thomas Schneider\n-Kai Dehmann\n-Georg Wilhelm\n-Daniel Wachs\n-Pavan Kumar Reddy\n-Ankita Singh",
+        "track": 3,
+        "time": "12:20",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS1C3.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS2C1": {
+        "id": "MTS2C1",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 1 - Afternoon",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n-Martin Jonen\n-Marc Bernard\n-Frank Engert\n-Michael Keller",
+        "track": 1,
+        "time": "16:00",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS2C1.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS2C2": {
+        "id": "MTS2C2",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 2 - Afternoon",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n-Rgina Hochecker\n-Johann Fößleitner\n-Dusan Sacha\n-Oliver Wahrstötter\n-Ivan Mans",
+        "track": 2,
+        "time": "16:00",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS2C2.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS2C3": {
+        "id": "MTS2C3",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 3 - Afternoon",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n- Volker Drees\n-Fabian Fellhauer\n-Olga Dolinskaja\n-Thomas Fiedler\n-George Drakos",
+        "track": 3,
+        "time": "16:00",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS2C3.ics",
+        "link": "",
+        "tags": [            
+        ]
+    },
+    "MTS3C1": {
+        "id": "MTS3C1",
+        "speaker": "",
+        "speakerids": [
+            ""
+        ], 
+        "title": "Meet the Speakers Channel 1, 2 and 3 - Evening",
+        "abstract": "Meet the speakers. Get to know the better and have your questions to them answered:\n- Jörg Müller\n-Enno Wulff\n-Ingo Bräuninger\n-tba\n-tba",
+        "track": 1,
+        "time": "18:10",
+        "duration": 10,
+        "language": "English",
+        "ics": "./model/agenda/MTS3C1.ics",
+        "link": "",
+        "tags": [            
+        ]
+    }
+}

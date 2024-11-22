@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:4vbCk2MORRF5pYrNnkq2L
+SUMMARY:Releasemanagement mit gCTS
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T094000Z
+DTEND:20241205T103000Z
+DESCRIPTION:Lifecycle und Release Management\, sowie Versionsverwaltung geh
+	ören zu den wesentlichen Themen im Betrieb eines S/4HANA Systems. Mit gCTS
+	 bietet die SAP hier seit einigen Jahren ein Werkzeug\, dass das Versionsk
+	ontrollsystem git mit dem Transportwesen zusammenbringt.\n\nIn diesem Vort
+	rag möchte ich ein paar Ansätze skizzieren\, gCTS in Kombination mit einem
+	 Transportmanagementsystem zu nutzen\, um ein ganzheitliches Releasemanage
+	ment für eine Systemlandschaft mit mehreren parallelen fünfstufigen System
+	schienen aufzusetzen.\n\nFolgende Themen habe ich dabei im Fokus:\n-Kurze 
+	Übersicht über wesentliche Funktionen von gCTS\n- Einsatz von gCTS und Tra
+	nsportmanagement in verschiedenen Systemlandschaften\n- Zuschnitt von Repo
+	sitories\n- Regeln für die Nutzung von Branches\n- Retrofit vom Wartungs- 
+	in das Entwicklungssystem\n- Herausforderungen
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

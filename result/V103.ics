@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:VX3lTn2Id0grZv3HMz-He
+SUMMARY:Troubleshoot your OData
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T103000Z
+DTEND:20241205T112000Z
+DESCRIPTION:OData-Services stehen immer mehr im Fokus bei verschiedenen Art
+	en von Anwendungen im SAP-Ökosystem\, sowohl RAP-basiert wie auch viele Le
+	gacy-Anwendungen z.B. im Bereich Fiori. Ziel ist es sinnvoll zu zeigen wie
+	 man diese Services toolunterstützt sinnvoll und einfach Testen kann\, sow
+	ohl OnPremise\, wie auch in der Cloud.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

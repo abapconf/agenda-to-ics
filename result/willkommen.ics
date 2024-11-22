@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:CDexzh4iV2ppD7tUV0P5k
+SUMMARY:Willkommen
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T073000Z
+DTEND:20241205T074500Z
+DESCRIPTION:Willkommen zur ABAPConf 2024. Einführung\, Motivation und Vorst
+	ellung der Agenda. Lernt die Leute kennen und macht das Beste aus dem Tag.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel1
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

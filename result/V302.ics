@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:NuFJeYyX-tDSkxv9gCCbM
+SUMMARY:Implementing Extension Fields using Key User and Developer Extensib
+	ility - Do's and Don'ts
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T094000Z
+DTEND:20241205T103000Z
+DESCRIPTION:In this session we will focus on how to implement extensions us
+	ing extension fields.\n\nWe will demonstrate both the key user tools and t
+	he developer extensibility wizard in ADT to implement typical scenarios us
+	ing extension fields. We will provide guidance for the Do’s and Don’ts in 
+	the extensibility area. 
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR

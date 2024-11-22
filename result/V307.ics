@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:ciR8peYKwUD1o8u1hISDh
+SUMMARY:Integration Troubleshooting in the SAP BTP\, ABAP Environment
+DTSTAMP:20241122T113502Z
+DTSTART:20241205T153000Z
+DTEND:20241205T162000Z
+DESCRIPTION:This session will offer an overview of troubleshooting capabili
+	ties within the Business Technology Platform (BTP) ABAP environment\, spec
+	ifically focusing on integration aspects.\n\nYou will see how to troublesh
+	oot integration scenarios and discover different tools necessary for effec
+	tively addressing integration and security issues.
+URL:https://abapconf.org/abapconf2024/#/agenda/channel3
+LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel3
+STATUS:CONFIRMED
+ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+END:VCALENDAR
