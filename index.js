@@ -41,7 +41,7 @@ function createICalEntry(session) {
         name: "ABAPConf",
         email: "abapconf@gmail.com"
     };
-    const streamUrl = "https://abapconf.org/abapconf2024/#/agenda/channel" + session.track;
+    const streamUrl = "https://abapconf.org/abapconf2025/" + session.track;
 
     const hour = Number(session.time.split(':')[0]);
     const minute = Number(session.time.split(':')[1]);
@@ -50,7 +50,7 @@ function createICalEntry(session) {
 
     // construct event object
     const event = {
-        start: [2024, 12, 5, hour, minute],
+        start: [2025, 6, session.day, hour, minute],
         end: [endTime.getFullYear(), endTime.getMonth()+1, endTime.getDate(), endTime.getHours(), endTime.getMinutes()],
         title: session.title,
         description: session.abstract,
@@ -71,10 +71,13 @@ function createICalEntry(session) {
  */
 function calcEndTime(session) {
 
-    const year = "2024";
-    const month = "12";
-    const day = "05";
-
+    const year = "2025";
+    const month = "06";
+    let day = "" + session.day;
+    if (session.day < 10) {
+        day = "0" + session.day;
+    }
+    
     let hour = session.time.split(':')[0];
     if (Number(hour) < 10) {
         hour = "0" + hour;
@@ -87,6 +90,8 @@ function calcEndTime(session) {
     // end time is start time + duration in minutes
     let endTime  = new Date(startTime.getTime() + session.duration * 60000);
     
+    console.log(startTime);
+    console.log(endTime);
     return endTime;
 }
 
