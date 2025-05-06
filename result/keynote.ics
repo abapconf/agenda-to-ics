@@ -5,14 +5,18 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:YiVq_oUAbMkooC4XX9Y6d
-SUMMARY:Keynote: Modernizing a R/3 Solution with ABAP Cloud - Light and Sha
-	dow
-DTSTAMP:20241122T113502Z
-DTSTART:20241205T080000Z
-DTEND:20241205T085000Z
-URL:https://abapconf.org/abapconf2024/#/agenda/channel1
-LOCATION:https://abapconf.org/abapconf2024/#/agenda/channel1
+UID:wT65K0dqyA0rUnYUCLeLL
+SUMMARY:Capabilities
+DTSTAMP:20250506T093954Z
+DTSTART:20250604T073000Z
+DTEND:20250604T083000Z
+DESCRIPTION:What differentiates SAP developers? What makes SAP developers s
+	uccessfull today and what will be expected from SAP developers in the futu
+	re? Are business and coding skills enough? Why are customers using SAP sof
+	tware and what needs to be done to ensure they will continue to depend on 
+	SAP developers to enhance it?
+URL:https://abapconf.org/abapconf2025/mannheim
+LOCATION:https://abapconf.org/abapconf2025/mannheim
 STATUS:CONFIRMED
 ORGANIZER;CN="ABAPConf":MAILTO:abapconf@gmail.com
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

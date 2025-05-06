@@ -5,14 +5,11 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ahO1VhBJRPdrcPY6TnnWd
-SUMMARY:Welcome
+UID:ycf2gthcNptWFqtifdkEU
+SUMMARY:Optimized Tools for Building and Adapting SAP Fiori Elements Apps
 DTSTAMP:20250506T093954Z
-DTSTART:20250604T070000Z
-DTEND:20250604T073000Z
-DESCRIPTION:Welcome to ABAPConf 2025. Introduction to the conference\, moti
-	vation and agenda. Get to know the people and how to get the best out of t
-	he day.
+DTSTART:20250604T113000Z
+DTEND:20250604T123000Z
 URL:https://abapconf.org/abapconf2025/mannheim
 LOCATION:https://abapconf.org/abapconf2025/mannheim
 STATUS:CONFIRMED
